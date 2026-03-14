@@ -35,4 +35,7 @@ The cache controller manages communication between the CPU and main memory to im
 
 ## Author
 
-Your Name
+S.Nagarani
+B.Harshini
+C.Manaswitha
+Sai Harshith
